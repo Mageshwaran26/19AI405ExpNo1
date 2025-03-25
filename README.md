@@ -42,7 +42,7 @@
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
 # Program:
-
+```
 class VacuumCleanerAgent:
     def __init__(self):
         # Initialize the agent's state (location and dirt status)
@@ -97,6 +97,7 @@ agent.perform_action("suck")
 agent.print_status()
 agent.perform_action("nothing")
 agent.print_status()
+```
 ## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/d23a5a42-39c0-4d4f-ae95-53630c071134)
