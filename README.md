@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: Mageshwaran T.A
+<h3>Register Number:212224230146
 
 
 <h3>AIM:</h3>
@@ -40,7 +40,9 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
+
 # Program:
+
 class VacuumCleanerAgent:
     def __init__(self):
         # Initialize the agent's state (location and dirt status)
